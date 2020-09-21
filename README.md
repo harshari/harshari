@@ -14,5 +14,5 @@
 [<img align="left" alt="Email" width="30px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />][email]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
 
-[email]: harshari4299@gmail.com
-[linkedin]: www.linkedin.com/in/itsharshari
+[email]: mailto:harshari4299@gmail.com
+[linkedin]: https//:www.linkedin.com/in/itsharshari
