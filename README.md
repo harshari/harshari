@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Hey there, I'm Harsh. I'm a developer, a maker and guitarist.](https://github.com/harshari4299/harshari4299/blob/master/HARSH_readmeGIF.gif)
 <!--
 **harshari4299/harshari4299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
