@@ -18,5 +18,5 @@ src="https://github.com/harshari4299/harshari4299/blob/master/Screenshot%202020-
 [email]: mailto:harshari4299@gmail.com
 [linkedin]: https//:www.linkedin.com/in/itsharshari
 
-### Meet my brothers while you're here.
-<img src="https://github.com/harshari4299/harshari4299/blob/master/Screenshot%202020-09-22%20at%205.31.24%20PM.png" width="350" height="350" />
+### Meet my brothers Puff and Simba
+<img src="https://github.com/harshari4299/harshari4299/blob/master/Screenshot%202020-09-22%20at%205.31.24%20PM.png" width="500" height="350" />
