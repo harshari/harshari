@@ -3,7 +3,7 @@
 
 
 ## I'm an 4th year undergrad studying electronics. On the side I'm a developer, a maker and a musician. 👋
-- 📊 I’m currently working on AR with Lenskart. Check them out here!
+- 📊 I’m currently working on AR with Lenskart. Check them out [here](https://www.instagram.com/ar/2667111130205123/). Use your Insta app to try  
 - 🔭 I’m currently working on developing course for Physical Computing at TI-CEPD
 - 🌱 I'm learning to backflip and saving to skydive this December!
 - 💻 During Covid I volunteered for Delhi Government as a React Developer at http://corona.delhi.gov.in/ and Maulaana Azad Medical College to help manage their Covid patient database. 
