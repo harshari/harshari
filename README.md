@@ -8,6 +8,7 @@
 - 🌱 I'm learning to backflip and saving to skydive this December!
 - 💻 During Covid I volunteered for Delhi Government as a React Developer at http://corona.delhi.gov.in/ and Maulaana Azad Medical College to help manage their Covid patient database. Read about it [here](https://www.linkedin.com/posts/itsharshari_doctors-coronapandemic-coronawarriors-activity-6686302231144271872-ON_m)
 - 💻 I didn't use GitHub previously to share my work and had things on my drive, in a couple of next weeks hope to get most of the things here in the open for collaborations and inspirations. 
+- 🏋️ As of Nov 2020, working on an awesome iOS product to revolutionize the way people workout. 
 
 ## Languages and Tools
 <img src="https://github.com/harshari4299/harshari4299/blob/master/pythonPNG.png" width="35" height="35" /> <img src="https://github.com/harshari4299/harshari4299/blob/master/Screenshot%202020-09-21%20at%202.52.58%20PM.png" width="35" height="35" /> <img src="https://github.com/harshari4299/harshari4299/blob/master/Screenshot%202020-09-21%20at%202.54.30%20PM.png" width="35" height="35" /> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="35" height="35" /> <img src="https://github.com/harshari4299/harshari4299/blob/master/Screenshot%202020-09-21%20at%202.55.47%20PM.png" width="35" height="35" /> <img 
