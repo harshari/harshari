@@ -21,9 +21,9 @@ src="https://github.com/harshari4299/harshari4299/blob/master/Screenshot%202020-
 <img src="https://github.com/harshari4299/harshari4299/blob/master/Screenshot%202020-09-22%20at%205.31.24%20PM.png" width="500" height="350" />
 
 ## Get in Touch
-[<img align="left" alt="Email" width="30px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />][email]
+[<img align="left" alt="Email" width="30px" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png" />][email]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" />][instagram]
+[<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
 [email]: mailto:harshari4299@gmail.com
 [linkedin]: https//:www.linkedin.com/in/itsharshari
