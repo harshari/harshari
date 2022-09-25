@@ -1,8 +1,10 @@
 ### Hey there, I'm Harsh.
 ![Hey](https://github.com/harshari4299/harshari4299/blob/master/HARSH_readmeGIF.gif)
 
-## As of April 2022,😃
+## As of September 2022,😃
 ## ~I'm an 4th year undergrad studying electronics~ Oh 1 year later I am doing PhD trying to make better ML accelerators. On the side I'm a developer, a maker and a musician. 👋
+- Stoked to announce that out paper [SWAP: A Server-scale Communication-aware Chiplet-based Manycore PIM Accelerator]{https://ieeexplore.ieee.org/document/9852792} is a BEST PAPER CANDIDATE at ESWEEK 2022! All thanks to my collaborators Prof. [Partha]{https://eecs.wsu.edu/~pande/}, [Jana]{https://eecs.wsu.edu/~jana/}, [Sumit Mandal]{https://sumitkmandal.ece.wisc.edu/}, and [Umit Ogras]{https://directory.engr.wisc.edu/ece/Faculty/Ogras_/}. 
+
 - 📊 I’ve previously worked on AR with Lenskart. Check them out [here](https://www.instagram.com/ar/2667111130205123/). Use your Instagram(mobile app) to try. 
 - 🔭 ~I’m currently working on developing a course for Physical Computing at TI-CEPD under [Prof. Dhananjay Gadre](http://www.dvgadre.com/)~ I taught the course to about 60 Physics Honors student on Scientific Computing (yaay) from Delhi University.
 - 🌱 ~I'm learning to backflip and saving to skydive next Summer!~ I ended up Bungee Jumping with my friend [Devansh Jain Naval](https://in.linkedin.com/in/devansh-jain-nawal) in 2021 August. I'm too busy to skydive anytime soon. I'm too unfit to learn backflip, I shall start with doing pushups first. 
