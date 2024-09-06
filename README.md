@@ -4,7 +4,8 @@
 ## As of April 2024,😃
 ## ~I'm an 4th year undergrad studying electronics~ 
 ## ~Oh 1 year later I am doing PhD trying to make better ML accelerators.~ 
-## A Ph.D. candidate now. Long journey and fun times On the side I'm a developer, a maker and a musician. 👋
+## A Ph.D. candidate now. Long journey and fun times. On the side I'm a developer, a maker and a musician. 👋
+## Currently interning at AMD in Adv. Technology group. Sorry signed an NDA!
 - ~Stoked that (my first paper) our paper [SWAP: A Server-scale Communication-aware Chiplet-based Manycore PIM Accelerator] Thanks to my wonderful collaborators Prof. [Partha](https://eecs.wsu.edu/~pande/), [Jana](https://eecs.wsu.edu/~jana/), [Sumit Mandal](https://sumitkmandal.ece.wisc.edu/), and [Umit Ogras](https://directory.engr.wisc.edu/ece/Faculty/Ogras_/) 😃.~ Got 2 Best Paper Awards; Gave a talk at IISc Bangalore, Keynote at DICCT, India, Best Graduate student Award at WSU:) 
 
 - 📊 I’ve previously worked on AR with Lenskart. Check them out [here](https://www.instagram.com/ar/2667111130205123/). Use your Instagram(mobile app) to try. 
